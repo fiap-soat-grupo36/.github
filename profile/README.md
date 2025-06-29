@@ -41,8 +41,8 @@ Inclui funcionalidades como:
 ## 👨‍💻 Integrantes
 
 - Greco Milani ([@grecomilani](https://github.com/grecomilani))
-- Isadora Souza
-- Nessaoana de Souza Carvalho
+- Isadora Souza ([@isaahs](https://github.com/isaahs))
+- Nessaoana de Souza Carvalho ([@nessaoana](https://github.com/Nessaoana))
 
 ---
 
