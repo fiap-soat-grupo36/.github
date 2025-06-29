@@ -43,6 +43,8 @@ Inclui funcionalidades como:
 - Greco Milani ([@grecomilani](https://github.com/grecomilani))
 - Isadora Souza ([@isaahs](https://github.com/isaahs))
 - Nessaoana de Souza Carvalho ([@nessaoana](https://github.com/Nessaoana))
+- Eduardo Luiz ([@grecomilani](https://github.com/grecomilani))
+- Alisson Martins Pirroncello ([@grecomilani](https://github.com/grecomilani))
 
 ---
 
