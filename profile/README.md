@@ -44,7 +44,7 @@ Inclui funcionalidades como:
 - Isadora Souza ([@isaahs](https://github.com/isaahs))
 - Nessaoana de Souza Carvalho ([@nessaoana](https://github.com/Nessaoana))
 - Eduardo Luiz ([@grecomilani](https://github.com/grecomilani))
-- Alisson Martins Pirroncello ([@grecomilani](https://github.com/grecomilani))
+- Alisson Martins Pirroncello ([@alissonpirroncello](https://github.com/alissonpirroncello))
 
 ---
 
