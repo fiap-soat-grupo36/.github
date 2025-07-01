@@ -1,6 +1,6 @@
 # 👨‍🔧 FIAP SOAT - Grupo 36
 
-Bem-vindo ao repositório da organização do **Grupo 36** da disciplina **SOAT (Soluções Orientadas a Arquitetura de TI)** da **FIAP**.
+Bem-vindo ao repositório da organização do **Grupo 36** da disciplina **SOAT (Software Architecture)** da **FIAP**.
 
 Este espaço reúne os projetos desenvolvidos durante o **Tech Challenge** da fase, com foco em:
 
