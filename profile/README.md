@@ -25,6 +25,11 @@ Inclui funcionalidades como:
 - Documentação com Swagger
 - Ambiente dockerizado para execução local
 
+#### Links
+- [MIRO](https://miro.com/app/dashboard/)
+- [Documentação/ Compartilhamento de arquivos](https://drive.google.com/drive/folders/1jaKIwdynxd2ko3MQsZTCaxY3uCPWPN-A?usp=drive_link)
+- [Diagrama Storytelling](https://drive.google.com/file/d/1XRfS-0Er0LEKNyXSopr-t605zrnfpiry/view?usp=sharing)
+
 ---
 
 ## 📚 Tecnologias utilizadas
